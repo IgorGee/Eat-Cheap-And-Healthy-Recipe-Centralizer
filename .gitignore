@@ -1,0 +1,7 @@
+.idea/
+DDL Files/
+misc/client_secrets.json
+misc/document.txt
+misc/submission_IDs.txt
+recipe_examples/
+src/__pycache__/
